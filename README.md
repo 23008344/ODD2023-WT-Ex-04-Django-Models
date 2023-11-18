@@ -61,5 +61,5 @@ In the admin/ page you can view the models created
 And  in the user_profile template page you can see the profile page of the user.
 
 # Output
-![Alt text](image-2.png)
-![Alt text](image-1.png)
+![Alt text](image.png)
+![Alt text](image-3.png)
